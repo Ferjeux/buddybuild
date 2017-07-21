@@ -71,6 +71,12 @@ export default class HomeScreen extends Component {
             title="State"
           />
         </View>
+        <View style={styles.margin}>
+          <Button
+            
+            title="coucou"
+          />
+        </View>
       </ScrollView>
     );
   }
